@@ -28,7 +28,7 @@
     "react": "^17.0.2",
     "react-helmet": "^6.0.0",
     "sass": "^1.69.5",
-    "webpack": "^5.89.0"
+    "webpack": "^5.98.0"
   },
   "keywords": [
     "gatsby"
